@@ -314,6 +314,27 @@ Métricas:
 ------------------------------------------------------------------------
 
 # 📊 Dashboard
+## 🖥️ Dashboard Interativo
+
+O projeto foi publicado no Power BI Service para permitir a exploração interativa dos dados. 
+
+🔗 **[Clique aqui para acessar o Dashboard Online](https://app.powerbi.com/view?r=eyJrIjoiMTMxYjJjMDQtNTY1MC00OWM5LWEwM2ItZmM4Yzk4ZGU1YTgxIiwidCI6IjgzMGVjNGJhLWUzNTYtNDM2Zi05NGQzLWU3NGQ1OGU1OTE4OSJ9)**
+
+---
+
+### 📸 Screenshots das Visões
+
+#### 1. Resumo Estratégico (Home)
+Menu de navegação com o sumário técnico do projeto.
+![Resumo Estratégico](images/tela_inicio.png)
+
+#### 2. Análise de Vendas
+Visão focada em faturamento, Ticket Médio e performance por categoria.
+![Análise de Vendas](images/analise_vendas.png)
+
+#### 3. Análise de Logística e Frete
+Diagnóstico de gargalos de entrega e custos operacionais por região.
+![Análise de Logística](images/analise_logistica.png)
 
 O dashboard foi desenvolvido no **Power BI** e dividido em duas áreas
 principais.
